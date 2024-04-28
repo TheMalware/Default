@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheMalware
 - 👀 I’m interested in Mathematics, Physics, Computer Science.
 - 💻 I'm well versed with Python, Java, CPP.
-- 🌱 I’m currently pursuing Computer Science and Engineering at IIT-Bombay.
+- 🌱 I’m currently pursuing CSE at IIT-Bombay.
 - 💞️ I’m looking to collaborate on Competitive Coding, Machine Learning, Data Structures.
 - 📫 Reach Me on [Gmail](mailto:themalware.dev@gmail.com)
 
