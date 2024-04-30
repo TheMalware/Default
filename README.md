@@ -4,8 +4,8 @@ I'm a programmer from India. I'm currently learning CPP. I love open source deve
 
 - 👋 Hi, I’m @TheMalware
 - 👀 I’m interested in Mathematics, Physics, Computer Science.
-- 💻 I'm well versed with Python, Java, CPP.
-- 🌱 I’m currently learning Go.
+- 💻 I'm well versed with Python, Java.
+- 🌱 I’m currently learning CPP.
 - 💞️ I’m looking to collaborate on Competitive Coding, Machine Learning, Data Structures.
 - 📫 Reach Me on [Telegram](https://t.me/OpenXS)
 
