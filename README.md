@@ -1,4 +1,4 @@
-# Hey There 👋, I'm Skywalker!
+# Hey There 👋, I'm Ash!
 
 I'm a programmer from India. I love open source development and am willing to contribute to open source to the fullest in the future. I like playing badminton, reading literature, listening music, watching science fiction and drama in my free time.
 
